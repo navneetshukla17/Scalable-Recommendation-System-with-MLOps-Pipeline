@@ -304,9 +304,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@navneetshukla17]([https://github.com/yourusername](https://github.com/navneetshukla17))
+- GitHub: [@navneetshukla17](https://github.com/navneetshukla17)
 - LinkedIn: [navneetshukl17](https://www.linkedin.com/in/navneet-shukla17/)
-- Email: your.email@example.com
+- Email: shuklanavneet2817@gmail.com
 
 ---
 
