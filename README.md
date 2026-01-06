@@ -1,6 +1,7 @@
 # Collaborative-Filtering-Based-Recommender-System
 # Here is the Live Demo: 
-https://collaborative-filtering-recommender-654465998365.us-central1.run.app/
+[https://collaborative-filtering-recommender-654465998365.us-central1.run.app/](https://collaborative-filtering-based-recommender-system.streamlit.app/)
+
 
 # End-to-End-Book-Recommender-System
 
